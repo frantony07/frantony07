@@ -3,10 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Desenvolvedor-FullStack-1E1E1E?style=for-the-badge&color=0A0A0A&logoColor=white">
 </p>
-
-
-## 🚀 Tecnologias que uso
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=white)
@@ -35,7 +31,5 @@
 <img src="https://raw.githubusercontent.com/raphaelfabeni/css-loader/master/src/assets/loader-ring-light.svg" width="120px">
 
 </div>
-
-gn="center">
   <strong>Obrigado pela visita! 👾</strong>
 </p>

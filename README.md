@@ -22,12 +22,10 @@
 <p align="center">
   Sou um entusiasta de <strong>análise de dados</strong>, buscando transformar informações em insights úteis, trabalhando com Python, SQL/PostgreSQL, planilhas e visualização de dados.
 </p>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/raphaelfabeni/css-loader/master/src/assets/loader-curve-light.svg" width="160px">
-</div>
 
 
----
+
+
 
 <p align="center">
   <strong>Obrigado pela visita! 👾</strong>

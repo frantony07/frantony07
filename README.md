@@ -20,7 +20,11 @@
 ---
 
 <p align="center">
-  Sou um entusiasta de <strong>análise de dados</strong>, buscando transformar informações em insights úteis, trabalhando com Python, SQL/PostgreSQL, planilhas e visualização de dados.
+  Sou estudante do 3º período de Engenharia de Software, com perfil proativo, analítico e orientado a resultados. Atualmente desenvolvo competências tanto em Desenvolvimento (Java, Programação Orientada a Objetos e Banco de Dados) quanto em Análise de Dados (Python, SQL e Excel), explorando diferentes áreas da tecnologia para identificar onde posso gerar maior impacto e crescimento.
+
+Minha experiência profissional no almoxarifado me proporcionou vivência prática com organização, responsabilidade, controle de processos e trabalho direto com pessoas. Desenvolvi habilidades de comunicação, liderança, tomada de decisão e trabalho em equipe, entendendo que tecnologia vai além do código — envolve pessoas, estratégia e eficiência.
+
+Tenho mentalidade de crescimento contínuo, disciplina nos estudos e foco em evolução profissional. Busco oportunidades onde eu possa contribuir, aprender na prática e assumir responsabilidades cada vez maiores.
 </p>
 
 

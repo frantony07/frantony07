@@ -1,7 +1,7 @@
-<h1 align="center">👋 Olá! Eu sou o <strong>frantony07</strong></h1>
+<h1 align="center">Hi! I'm <strong>frantony07</strong></h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Entusiasta%20de%20Análise%20de%20Dados-1E1E1E?style=for-the-badge&color=0A0A0A&logoColor=white">
+  <img src="https://img.shields.io/badge/Back--End%20Developer-1E1E1E?style=for-the-badge&color=0A0A0A&logoColor=white">
 </p>
 
 ---

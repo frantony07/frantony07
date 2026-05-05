@@ -15,6 +15,8 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2E2E2E?style=for-the-badge&logo=javascript&logoColor=yellow)
 
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=frantony07&layout=compact)
+
 </div>
 
 ---

@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm <strong>frantony07</strong></h1>
+<h1 align="center">Hi! I'm <strong>frantony</strong></h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Back--End%20Developer-1E1E1E?style=for-the-badge&color=0A0A0A&logoColor=white">
